@@ -12,3 +12,5 @@ _De lo anterior se comparten los siguientes puntos:_
 # Por último en relación al nivel de satisfacción  y puntuación del rendimiento del empleado, se encontró que hay una crelación entre mayor puntuación y mayor satisfación de los colaboradores con sus empleos. 
 ![Captura de pantalla 2024-08-19 170841](https://github.com/user-attachments/assets/1d80bf1a-f235-4431-9bed-5529e134e9ae)
 
+# Enlace al Dashboard
+https://public.tableau.com/app/profile/ana.isabel6233/viz/CASOPRCTICOTABLEAU_17241077955580/Dashboard1?publish=yes 
